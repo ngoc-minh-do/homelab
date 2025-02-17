@@ -3,3 +3,4 @@
 - Kubernetes
 - Ansible
 - Hostinger/bluehost/A2 hosting
+- Hugo/starlight/Docusaurus
